@@ -1,6 +1,6 @@
 # Association de Robotique
 
-Bienvenue sur le github de l'**Projet & Tech**. Notre mission est de promouvoir l'apprentissage et le développement de solutions robotiques innovantes pour participer et gagner à la coupe de France de robotique.
+Bienvenu sur le github de **Projet&Tech**. Notre mission est de promouvoir l'apprentissage et le développement de solutions robotiques innovantes pour participer et gagner à la coupe de France de robotique.
 
 ---
 
@@ -22,17 +22,19 @@ Bienvenue sur le github de l'**Projet & Tech**. Notre mission est de promouvoir 
 ## 🔧 Activités
 
 ### 🌟 Ateliers
-Nous proposons régulièrement des ateliers pratiques pour apprendre les bases de la robotique :
-- Programmation (Python, C++).
-- Conception mécanique et électronique.
-- Intelligence artificielle et vision par ordinateur.
+Pour les étudiant motivées à faire de la robotique et participer à un projet de conception physique,
+on réalise des séssions de formation sous la forme d'ateliers pratiques pour apprendre les bases de
+la robotiques et des domaines qui en font parti:
+- Programmation embarquée (C/C++).
+- Asservissement et contrôle de précision.
+- Conception de circuits imprimées et cartes electroniques. 
+- Modélisation 3D et mécanique. 
 
 ### 🤖 Projets collaboratifs
 Les membres de l'association travaillent sur divers projets, tels que :
-- Robots autonomes.
-- Drones intelligents.
-- Bras robotiques.
-- Systèmes IoT intégrés.
+- Robots Boules.
+- Borne d'arcade.
+- Réparation d'équipements.
 
 ### 🏆 Compétitions
 Nous participons activement à des compétitions comme :
@@ -67,12 +69,7 @@ Pour devenir membre :
 Pour toute question ou suggestion, contactez-nous :
 
 - **Email :** projet-tech@faste.fr
-- **Adresse :** 12 Rue des Innovateurs, 75000 Paris, France
-
-Suivez-nous sur les réseaux sociaux :
-- [Facebook](#)
-- [Twitter](#)
-- [LinkedIn](#)
+- **Adresse :** 25 Rue Dr Rémy Annino, 42000 Saint-Étienne
 
 ---
 
