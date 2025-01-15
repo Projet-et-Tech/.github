@@ -42,16 +42,6 @@ Nous participons activement à des compétitions comme :
 - Coupe de France de Robotique
 ---
 
-## 🗓️ Événements à venir
-
-| Date       | Événement                         | Lieu         |
-|------------|-----------------------------------|--------------|
-| 15/02/2025 | Atelier d'introduction à Arduino | Paris        |
-| 22/03/2025 | Conférence sur l'IA et la Robotique | Lyon         |
-| 05/04/2025 | Compétition régionale de robotique | Toulouse     |
-
----
-
 ## 📢 Rejoignez-nous !
 
 Nous sommes toujours à la recherche de nouveaux membres passionnés et motivés. Que vous soyez débutant ou expert, vous trouverez votre place au sein de notre association.
