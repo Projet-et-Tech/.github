@@ -2,13 +2,10 @@
 
 Bienvenu sur le github de **Projet&Tech**. Notre mission est de promouvoir l'apprentissage et le développement de solutions robotiques innovantes pour participer et gagner à la coupe de France de robotique.
 
----
-
 ## 🛠️ Qui sommes-nous ?
 
 **Projet&Tech** est une association à but non lucratif réunissant des étudiant télécommiens passionnés de robotique. Nous collaborons pour concevoir, construire et perfectionner des robots capables de relever les défis que nous présente la coupe de France de robotique.
 
----
 
 ## 🎯 Nos objectifs
 
